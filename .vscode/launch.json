@@ -4,7 +4,7 @@
       "type": "node",
       "request": "launch",
       "name": "Debug",
-      "program": "${workspaceFolder}/lc75.1004.ts",
+      "program": "${workspaceFolder}/lc75.1493.ts",
       "runtimeExecutable": "tsx"
     }
   ]
