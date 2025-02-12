@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Debug",
+      "program": "${workspaceFolder}/lc75.1679.ts",
+      "runtimeExecutable": "tsx"
+    }
+  ]
+}
